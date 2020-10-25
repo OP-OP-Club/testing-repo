@@ -6,5 +6,7 @@ int main(){
 
     printf("Sedikit Perubahan");
 
+    printf("Perubahan Kedua");
+
     return 0;
 }
